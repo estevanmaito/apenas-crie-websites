@@ -69,6 +69,6 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Esolha um livro público e crie um site onde o usuário possa ler, fazer notas, destacar, etc.
 * Pense em uma pessoa na sua vida; contrua um site que ela amaria
 * ...agora construa um site que ela odiaria
-* Crie um trabalho compleo usando emojis
+* Crie um trabalho completo usando emojis
 * Limite-se a uma paleta de preto e uma cor, ou branco e uma cor
 * Escolha outra restrição e crie uma arte web inspirado por ela
