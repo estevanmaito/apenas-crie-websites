@@ -72,3 +72,4 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Crie um trabalho compleo usando emojis
 * Limite-se a uma paleta de preto e uma cor, ou branco e uma cor
 * Escolha outra restrição e crie uma arte web inpirado por ela
+* Desenvolva um framework baseado em algum já existente apenas para fins de estudos
