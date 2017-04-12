@@ -72,3 +72,5 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Crie um trabalho completo usando emojis
 * Limite-se a uma paleta de preto e uma cor, ou branco e uma cor
 * Escolha outra restrição e crie uma arte web inspirado por ela
+* Crie um conversor de medidas
+* Transforme o cartaz de um filme ou de um evento em um site responsivo
