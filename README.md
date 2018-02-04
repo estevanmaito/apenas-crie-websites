@@ -15,6 +15,7 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Olhe o código de todo mundo!!!
 * Crie um site sustentável, público para uma organização sem fins lucrativos da sua região
   * Carece de exemplos brasileiros
+  * Ajude ONGs e causas sociais buscando vagas para a habilidade de "Informática/Eletrônica" no Atados [https://www.atados.com.br/]
   * [Code for America](http://www.codeforamerica.org/) (você também pode [resolver problemas](https://www.codeforamerica.org/geeks/civicissues))
   * [Volunteer Match](https://www.volunteermatch.org/)
   * Encontre um grupo de desenvolvimento para o bem no [Meetup](http://meetup.com)
