@@ -66,7 +66,7 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Catalogue cada peça de roupa no seu guarda-roupa, planta no jardim ou tempero em sua cozinha, e faça uma coleção filtrável. O site deve lembrar dos últimos filtros usados pelo usuário
 * Ensine a uma criança as cores, números, letras e formas com um site interativo, acessível por toque
 * Escolha uma API no [Programmable Web](http://www.programmableweb.com/apis/directory) e faça algo com isso
-* Esolha um livro público e crie um site onde o usuário possa ler, fazer notas, destacar, etc.
+* Escolha um livro público e crie um site onde o usuário possa ler, fazer notas, destacar, etc.
 * Pense em uma pessoa na sua vida; contrua um site que ela amaria
 * ...agora construa um site que ela odiaria
 * Crie um trabalho completo usando emojis
