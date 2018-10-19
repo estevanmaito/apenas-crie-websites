@@ -15,8 +15,8 @@ experiência, raça ou religião.
 Exemplos de comportamentos que contribuem a criar um ambiente positivo incluem:
 
 * Usar linguagem acolhedora e inclusiva
-* Respeitar pontos de vista e experiencias diferentes
-* Aceitar crítica construtíva com graça
+* Respeitar pontos de vista e experiências diferentes
+* Aceitar crítica construtiva com graça
 * Focar no que é melhor para a comunidade
 * Mostrar empatia com outros membros da comunidade
 
@@ -30,7 +30,7 @@ Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 
 ## Nossas responsibilidades
 
-Os administradores do projeto são responsáveis por esclareçer os padrões de
+Os administradores do projeto são responsáveis por esclarecer os padrões de
 comportamento e deverão tomar ação corretiva apropriada e justa em resposta
 a qualquer instância de comportamento inaceitável.
 
@@ -63,9 +63,9 @@ políticas de aplicação podem ser postadas separadamente.
 
 Administradores do projeto que não sigam ou não mantenham o Código
 de Conduta em boa fé podem enfrentar repercussões temporárias ou permanentes
-determinadas por outros membros da liderança do projeto.
+determinadas por outros membros da liderança do projeto. 
 
-##Atribuição
+## Atribuição
 
 Este Código de Conduta é adaptado do [Contributor Covenant](http://contributor-covenant.org),
 versão 1.4, disponível em http://contributor-covenant.org/version/1/4/pt_br/
