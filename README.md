@@ -27,7 +27,7 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Identifique uma necessidade que você tem na sua vida diária e crie um app web que resolva isso
 * Imagine como seria o site do seu personagem fictício favorito
 * Explore os recursos da web no [Can I Use](http://caniuse.com/) e construa um site com recursos que você nunca ouviu falar e/ou usou antes
-* Exponha uma coleção pessoal: sua ou de algúem
+* Exponha uma coleção pessoal: sua ou de alguém
 * Pesquise sua genealogia e crie uma árvore
 * Reúna dados pessoais e use uma biblioteca de gráficos/visualização para apresentá-los -- ou crie suas próprias visualizações
 * Reforme um site existente para carregar 10% mais rápido (ou defina outra marca e busque-a)
@@ -36,7 +36,7 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Repare um site antigo para fazê-lo mais acessível para pessoas com diferentes capacidades e configurações técnicas
 * Estilize alguns temas gratuitos para um serviço popular de blogs
 * Finalmente compartilhe seu talentos como poeta / guitarrista / que você escondia
-* Reinvente a roda: faça uma calculador, uma aplicação web de finanças pessoais, um cronômetro...
+* Reinvente a roda: faça uma calculadora, uma aplicação web de finanças pessoais, um cronômetro...
 * Pratique fazer [guias de estilo](http://styleguides.io/examples.html) criando uma para um site existente. Talvez você se encontre reduzindo estilos ou refatorando código duplicado...
 * Estilize um site usando 3 técnicas diferente de arquitetura para CSS e veja qual pareceu melhor
 * Use o mesmo processo básico para analisar novos framework ou sistemas de gerenciamento de conteúdo (CMS)
@@ -56,7 +56,7 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Crie um guia para a sua cidade, com vários filtros (tipo de atividade, gastos, comidas, etc.)
 * Desenhe uma site que seria acessível em um dispositivo com 100px de largura
 * Teste vigorosamente um navegador que você nunca ouviu falar antes
-* Matenha controle sobre suas metas de vida com um site chique/extravagante
+* Mantenha controle sobre suas metas de vida com um site chique/extravagante
 * Dê uma caminhada por alguma vizinhança que você não frequente; faça algo inspirado pelo que você viu
 * Construa o site com a pior performance que você conseguir
 * Ensine às pessoas algo novo sobre um tópico que você domina
@@ -67,7 +67,7 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Ensine a uma criança as cores, números, letras e formas com um site interativo, acessível por toque
 * Escolha uma API no [Programmable Web](http://www.programmableweb.com/apis/directory) e faça algo com isso
 * Escolha um livro público e crie um site onde o usuário possa ler, fazer notas, destacar, etc.
-* Pense em uma pessoa na sua vida; contrua um site que ela amaria
+* Pense em uma pessoa na sua vida; construa um site que ela amaria
 * ...agora construa um site que ela odiaria
 * Crie um trabalho completo usando emojis
 * Limite-se a uma paleta de preto e uma cor, ou branco e uma cor
