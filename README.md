@@ -74,3 +74,4 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Escolha outra restrição e crie uma arte web inspirado por ela
 * Crie um conversor de medidas
 * Transforme o cartaz de um filme ou de um evento em um site responsivo
+* Recrie o site da Netflix e da Amazon com seu Framework javascript preferido, depois tente obter o mesmo resultado com JS puro.
