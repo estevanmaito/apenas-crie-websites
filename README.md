@@ -1,5 +1,5 @@
 # Apenas! Crie! Websites!
-
+logr- Amazing Website
 Originalmente [Just! Build! Websites](https://github.com/melanierichards/just-build-websites)
 
 Os hosts do podcast [Shop Talk show](http://shoptalkshow.com/) (Chris Coyier e Dave Rupert) recebem muitas perguntas sobre como aprender desenvolvimento web. O mantra deles é "apenas crie websites"; [ele até gravaram isso](http://shoptalkshow.com/mantra/). Como uma pessoa que aprende fazendo, eu concordo que colocar as mãos na massa com alguns projetos web e preencher as lacunas do seu conhecimento durante o caminho é uma maneira muito bonita de fazer as coisas.
