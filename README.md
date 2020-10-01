@@ -6,6 +6,8 @@ Os hosts do podcast [Shop Talk show](http://shoptalkshow.com/) (Chris Coyier e D
 
 Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontra uma lista de diferentes projetos que você pode praticar seu desenvolvimento e design web. Sinta-se livre para mandar uma PR (veja o [guia para contribuições](CONTRIBUTING.md)) e adicionar ideias à lista!
 
+I was full of pride when President Obama talked about coding in his last State of the Union address. I was proud when Chicago recently made computer science mandatory as a requirement for graduation. To see this elevate to the level of a bigger conversation is progress.
+
 ## Ideias para projetos de desenvolvimento e design web
 
 * Ajude um amigo com seu negócio / hobby / currículo / casamento
