@@ -69,8 +69,8 @@ Mas e se você não sabe que tipo de site "apenas criar"? A seguir você encontr
 * Escolha um livro público e crie um site onde o usuário possa ler, fazer notas, destacar, etc.
 * Pense em uma pessoa na sua vida; construa um site que ela amaria
 * ...agora construa um site que ela odiaria
-* Crie um trabalho completo usando emojis
-* Limite-se a uma paleta de preto e uma cor, ou branco e uma cor
-* Escolha outra restrição e crie uma arte web inspirado por ela
-* Crie um conversor de medidas
-* Transforme o cartaz de um filme ou de um evento em um site responsivo
+* Crie um trabalho completo usando emojis.
+* Limite-se a uma paleta de preto e uma cor, ou branco e uma cor.
+* Escolha outra restrição e crie uma arte web inspirado por ela.
+* Crie um conversor de medidas.
+* Transforme o cartaz de um filme ou de um evento em um site responsivo.
